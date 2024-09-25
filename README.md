@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 ###Go4Lunch
 [Lien](https://github.com/valentinfamery/Go4Lunch)
+
+L’application Go4Lunch a pour principe d’être une application collaborative utilisée par tous les employés d'une entreprise. Elle permet de rechercher un restaurant dans les environs, puis de sélectionner celui de son choix en en faisant part à ses collègues.

@@ -11,15 +11,16 @@ valentin.famery@tuta.io
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,arch,bash,dart,docker,firebase,flutter,gcp,git,github,gradle,java,kotlin,vscode,cs,cpp,html,css,dotnet,js,mysql,nodejs,npm,react,sqlite)](https://skillicons.dev)
 
 ### Magiworld
--Terminal Java
+
+- Terminal Java
 [Github](https://github.com/valentinfamery/MagiWorld-Terminal-Java)
--Terminal C++
+- Terminal C++
 [Github](https://github.com/valentinfamery/Magiworld-Terminal-CPP)
--Application Android
+- Application Android
 [Github](https://github.com/valentinfamery/MagiWorld-Android)
--Site Web React
+- Site Web React
 [Github](https://github.com/valentinfamery/Magiworld_React)
--Serveur Backend ASP.NET Core 
+- Serveur Backend ASP.NET Core 
 [Github](https://github.com/valentinfamery/Magiworld-ASP.NET-Core)
 
 ### Go4Lunch
